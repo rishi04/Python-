@@ -1,0 +1,35 @@
+-----------------------------THE OUTPUT ON THE PROMPT---------------------------------
+
+	+++++++++++++++WELCOME TO DIGITAL FORTUNE TELLER+++++++++++++++
+
+	 1. Select option 1 to Quit the game
+
+	 2. Select option 2 to start the game
+
+	 Please enter your option: 2
+
+Please select one of the following colors:
+
+	Red
+
+	Blue
+
+	Green
+
+	Purple
+
+ Please enter your color:	Green
+ select from one of the following numbers  1 , 2 , 5 , 6 : 	5
+	Enter a Noun :Richie
+	Enter the name of plant :Ivu
+	Enter a part of body :Leg
+
+Please select 1 to play again: 0
+
+------------------Thank you for playing------------------------
+
+-----------------------------THE OUTPUT ON THE OUTPUT FILE---------------------------------
+
+Last summer, my little brother
+fell in a/an Richie and got poison Ivu all
+over his Leg
